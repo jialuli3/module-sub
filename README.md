@@ -1,4 +1,4 @@
 # module-sub
 
 submodule for git submodule
-update v2
+update v3
